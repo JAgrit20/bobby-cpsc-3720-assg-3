@@ -1,3 +1,5 @@
+![Dashboard overview](myapp/image.png)
+
 # Point 5 – Methodology
 
 We conducted a literature review and requirements gathering phase grounded in recent component-based engineering work (Laborde et al., 2022)[https://www.researchgate.net/publication/356773566_Reuse_in_component-based_prototyping_an_industrial_experience_report_from_15_years_of_reuse], studied practical architecture guides from Geeksforfeeks (GeeksforGeeks, 2025) [https://www.geeksforgeeks.org/system-design/component-based-architecture-system-design/], and modular dashboard case studies (MathWorks, 2025)[https://blogs.mathworks.com/graphics-and-apps/2025/08/04/creating-a-flight-tracking-dashboard-part-3-using-modular-application-development-principles-to-assemble-the-dashboard/]. Capture stakeholder needs through user stories that emphasize fast data loading, intuitive filtering, and maintainable code.
