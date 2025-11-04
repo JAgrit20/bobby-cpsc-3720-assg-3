@@ -1,1 +1,1 @@
-![Dashboard overview](image.png)
+![Dashboard overview](myapp/image.png)
